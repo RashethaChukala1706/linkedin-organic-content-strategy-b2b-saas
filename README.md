@@ -112,7 +112,7 @@ Strong audiences compound into business opportunities, partnerships, and sustain
 
 - Experts Researched: 10
 - LinkedIn Post Analyses: 30+
-- YouTube Video Summaries: 10
+- YouTube Video Summaries: 5
 - Research Files Created: 20+
 - Core Topics Covered: 8+
 
