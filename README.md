@@ -38,7 +38,7 @@ This research project explores how leading B2B SaaS creators leverage LinkedIn o
 ## Research Deliverables
 
 - Analysis of 30+ LinkedIn posts from industry experts.
-- Summaries of 10 educational YouTube videos.
+- Summaries of 5 educational YouTube videos.
 - Documentation of recurring content patterns and frameworks.
 - Identification of best practices for LinkedIn organic growth.
 - Consolidated insights for building a future B2B SaaS playbook.
