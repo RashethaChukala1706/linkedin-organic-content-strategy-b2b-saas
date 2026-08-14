@@ -81,7 +81,7 @@ Make the customer's problem the starting point for content.
 
 **Date :** 2026 (exact day unavailable in the research record)
 
- **Direct Source :** [https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j](https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j) and Katelyn Bourgoin research file.
+ **Direct Source :** (https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j) 
 
 **Research record**: [Katelyn Bourgoin](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/katelyn_bourgoin.md))
 
@@ -101,9 +101,9 @@ Use educational content as a trust-building layer before introducing a commercia
 
 ***Date**:* January 2026 (exact day unavailable in the research record)
 
- **Direct Source :** [https://www.linkedin.com/posts/alexhormozi_you-can-beat-99-of-your-competition-in-2026-activity-7410726159719723008-9Eu0](https://www.linkedin.com/posts/alexhormozi_you-can-beat-99-of-your-competition-in-2026-activity-7410726159719723008-9Eu0) 
+ **Direct Source :** (https://www.linkedin.com/posts/alexhormozi_you-can-beat-99-of-your-competition-in-2026-activity-7410726159719723008-9Eu0) 
 
-**Research Record**: [Alex Hormozi Research File]([https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md))
+**Research Record**: [Alex Hormozi Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md))
 
 ---
 
@@ -123,7 +123,7 @@ Choose a recognizable topic territory and develop authority around it instead of
 
 **Date:**  2026 (exact day unavailable in the research record)
 
- **Direct Source :** [https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j](https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j)
+ **Direct Source :** (https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j)
 
 **Research record**: [Katelyn Bourgoin] (https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/katelyn_bourgoin.md))
 
@@ -156,9 +156,9 @@ Build a repeatable content system and evaluate it over time instead of constantl
 
 ***Date:***  2026 (exact day unavailable in the research record)
 
-**Direct Source :** [https://www.linkedin.com/posts/alexhormozi_activity-7445862728402939904-E53p](https://www.linkedin.com/posts/alexhormozi_activity-7445862728402939904-E53p) 
+**Direct Source :** (https://www.linkedin.com/posts/alexhormozi_activity-7445862728402939904-E53p) 
 
-**Research Record**: [Alex Hormozi Research File]([https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md))
+**Research Record**: [Alex Hormozi Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md))
 
 ---
 
@@ -186,7 +186,7 @@ rather than relying exclusively on a company page.
 
 ***Date:*** May 2026(exact day unavailable in the research record)
 
-**Direct Source :** [https://www.linkedin.com/posts/richardvanderblom_one-of-the-most-suprising-findings-in-our-activity-7456947374653857792-vND2](https://www.linkedin.com/posts/richardvanderblom_one-of-the-most-suprising-findings-in-our-activity-7456947374653857792-vND2) 
+**Direct Source :** (https://www.linkedin.com/posts/richardvanderblom_one-of-the-most-suprising-findings-in-our-activity-7456947374653857792-vND2) 
 
 **Research Record**: [**Richard van der Blom Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md))
 
@@ -213,7 +213,7 @@ Create content around:
 
 ***Date:*** 2026 (exact day unavailable in the research record)
 
-**Direct Source :** [https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j](https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j)
+**Direct Source :**(https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j)
 
 **Research record**: [Katelyn Bourgoin](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/katelyn_bourgoin.md))
 
@@ -239,9 +239,9 @@ Use:
 
 ***Date**:* January 2026 (exact day unavailable in the research record)
 
-**Direct Source :** [https://www.linkedin.com/posts/alexhormozi_you-can-beat-99-of-your-competition-in-2026-activity-7410726159719723008-9Eu0](https://www.linkedin.com/posts/alexhormozi_you-can-beat-99-of-your-competition-in-2026-activity-7410726159719723008-9Eu0)
+**Direct Source :** (https://www.linkedin.com/posts/alexhormozi_you-can-beat-99-of-your-competition-in-2026-activity-7410726159719723008-9Eu0)
 
-**Research Record**: [Alex Hormozi Research File]([https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md))
+**Research Record**: [Alex Hormozi Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md))
 
 ---
 
@@ -263,9 +263,9 @@ Use:
 
 **Date:** June 2026  (exact day unavailable in the research record)
 
-**Direct Source :** [https://tinyurl.com/2nvsta2c](https://tinyurl.com/2nvsta2c)
+**Direct Source :** (https://tinyurl.com/2nvsta2c)
 
-**Research Record:** [Justin Welsh Research File]([https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/justin-welsh.md](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/justin-welsh.md))
+**Research Record:** [Justin Welsh Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/justin-welsh.md))
 
 ## Pillar 4 — Proof and Demand
 
@@ -284,7 +284,7 @@ Use:
 
 ***Date**:* June 2026 (exact day unavailable in the research record)
 
-**Direct Source :** [https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB](https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB)
+**Direct Source :** (https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB)
 
 **Research Record**: [**Richard van der Blom Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md))
 
@@ -312,9 +312,9 @@ Ask:
 
  ***Date :*** 2026 (exact day unavailable in the research record)
 
-**Direct Source :** [https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j](https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j)
+**Direct Source :** (https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j)
 
-**Research record**: [Katelyn Bourgoin](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/katelyn_bourgoin.md))** [](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/katelyn_bourgoin.md)
+**Research record**: [Katelyn Bourgoin](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/katelyn_bourgoin.md)
 
 
 
@@ -337,9 +337,9 @@ Choose one:
 
 ***Date**:* June 2026 (exact day unavailable in the research record)
 
-**Direct Source :** [https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB](https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB)
+**Direct Source :** (https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB)
 
-**Research Record**: [**Richard van der Blom Research File]([https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md))
+**Research Record**: [**Richard van der Blom Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md)
 
 ---
 
@@ -386,7 +386,7 @@ Keep the explanation focused on the reader rather than the company.
 
 ***Date:*** 2026 (exact day unavailable in the research record)
 
-**Direct Source :** [https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j](https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j)
+**Direct Source :** (https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j)
 
 **Research record**: [Katelyn Bourgoin](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/katelyn_bourgoin.md))
 
@@ -414,9 +414,9 @@ The reader should be able to learn something even if they never become a custome
 
 ***Date**:* January 2026 (exact day unavailable in the research record)
 
-**Direct Source :** [https://www.linkedin.com/posts/alexhormozi_you-can-beat-99-of-your-competition-in-2026-activity-7410726159719723008-9Eu0](https://www.linkedin.com/posts/alexhormozi_you-can-beat-99-of-your-competition-in-2026-activity-7410726159719723008-9Eu0)
+**Direct Source :** (https://www.linkedin.com/posts/alexhormozi_you-can-beat-99-of-your-competition-in-2026-activity-7410726159719723008-9Eu0)
 
-**Research Record**: [Alex Hormozi Research File]([https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md))
+**Research Record**: [Alex Hormozi Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md))
 
 ---
 
@@ -445,9 +445,9 @@ Prefer evidence and experience over generic advice when evidence is available.
 
 **Date:** May 2026 (exact day unavailable in the research record)
 
-**Direct Source :** [https://www.linkedin.com/posts/daniel-murray-marketing_every-single-marketing-meeting-in-2026-activity-7457063849356234752-4APC](https://www.linkedin.com/posts/daniel-murray-marketing_every-single-marketing-meeting-in-2026-activity-7457063849356234752-4APC)
+**Direct Source :** (https://www.linkedin.com/posts/daniel-murray-marketing_every-single-marketing-meeting-in-2026-activity-7457063849356234752-4APC)
 
-**Research Record:** [Daniel Murray Research File]([https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/daniel_murray.md](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/daniel_murray.md))
+**Research Record:** [Daniel Murray Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/daniel_murray.md))
 
 
 
@@ -497,9 +497,9 @@ Match the CTA to the purpose and buying intent of the post.
 
 **Date:** May 2026 (exact day unavailable in the research record)
 
-**Direct Source :** [https://www.linkedin.com/posts/daniel-murray-marketing_every-single-marketing-meeting-in-2026-activity-7457063849356234752-4APC](https://www.linkedin.com/posts/daniel-murray-marketing_every-single-marketing-meeting-in-2026-activity-7457063849356234752-4APC)
+**Direct Source :** (https://www.linkedin.com/posts/daniel-murray-marketing_every-single-marketing-meeting-in-2026-activity-7457063849356234752-4APC)
 
-**Research Record:** [Daniel Murray Research File]([https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/daniel_murray.md](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/daniel_murray.md))
+**Research Record:** [Daniel Murray Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/daniel_murray.md))
 
 
 
@@ -532,9 +532,9 @@ Treat publishing as a repeatable process rather than a one-off creative task.
 
 ***Date:***  2026 (exact day unavailable in the research record)
 
-**Direct Source :** [https://www.linkedin.com/posts/alexhormozi_activity-7445862728402939904-E53p](https://www.linkedin.com/posts/alexhormozi_activity-7445862728402939904-E53p)
+**Direct Source :**(https://www.linkedin.com/posts/alexhormozi_activity-7445862728402939904-E53p)
 
-**Research Record**: [Alex Hormozi Research File]([https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md))
+**Research Record**: [Alex Hormozi Research File]https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md))
 
 ---
 
@@ -677,7 +677,7 @@ This approach places greater emphasis on ensuring that marketing activity connec
 
 **Source:** Daniel Murray — *“AI Can't Fix Poor Marketing Strategy.”*
 **Date:** May 2026 (exact day unavailable in the research record)
-**Direct Source:** https://www.linkedin.com/posts/daniel-murray-marketing_every-single-marketing-meeting-in-2026-activity-7457063849356234752-4APC
+**Direct Source:** (https://www.linkedin.com/posts/daniel-murray-marketing_every-single-marketing-meeting-in-2026-activity-7457063849356234752-4APC)
 **Research Record:** Daniel Murray research file
 
 ### The Strategic Tension
