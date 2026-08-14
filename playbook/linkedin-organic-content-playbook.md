@@ -125,7 +125,7 @@ Choose a recognizable topic territory and develop authority around it instead of
 
  **Direct Source :** (https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j)
 
-**Research record**: [Katelyn Bourgoin] (https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/katelyn_bourgoin.md))
+**Research record**: [Katelyn Bourgoin](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/katelyn_bourgoin.md))
 
 ---
 
@@ -188,7 +188,7 @@ rather than relying exclusively on a company page.
 
 **Direct Source :** (https://www.linkedin.com/posts/richardvanderblom_one-of-the-most-suprising-findings-in-our-activity-7456947374653857792-vND2) 
 
-**Research Record**: [**Richard van der Blom Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md))
+**Research Record**: [Richard van der Blom Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md))
 
 
 
@@ -286,7 +286,7 @@ Use:
 
 **Direct Source :** (https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB)
 
-**Research Record**: [**Richard van der Blom Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md))
+**Research Record**: [Richard van der Blom Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md))
 
 ---
 
@@ -314,7 +314,7 @@ Ask:
 
 **Direct Source :** (https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j)
 
-**Research record**: [Katelyn Bourgoin](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/katelyn_bourgoin.md)
+**Research record**: [Katelyn Bourgoin](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/katelyn_bourgoin.md))
 
 
 
@@ -339,7 +339,7 @@ Choose one:
 
 **Direct Source :** (https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB)
 
-**Research Record**: [**Richard van der Blom Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md)
+**Research Record**: [**Richard van der Blom Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md))
 
 ---
 
@@ -534,7 +534,7 @@ Treat publishing as a repeatable process rather than a one-off creative task.
 
 **Direct Source :**(https://www.linkedin.com/posts/alexhormozi_activity-7445862728402939904-E53p)
 
-**Research Record**: [Alex Hormozi Research File]https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md))
+**Research Record**: [Alex Hormozi Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/alex_hormozi.md))
 
 ---
 
@@ -603,7 +603,7 @@ His approach suggests that creators should build sustainable systems and avoid a
 
 **Source:** Justin Welsh — *“The most successful people I know are working less, not more.”*
 **Date:** June 2026 (exact day unavailable in the research record)
-**Direct Source:** https://tinyurl.com/5n7xhj53
+**Direct Source:** (https://tinyurl.com/5n7xhj53))
 **Research Record:** Justin Welsh research file
 
 ### Author B — Richard van der Blom: Systematic LinkedIn Activity
@@ -614,8 +614,9 @@ His approach places more importance on having a structured publishing system and
 
 **Source:** Richard van der Blom — *“The Four Content Pillars That Drive LinkedIn Growth.”*
 **Date:** June 2026 (exact day unavailable in the research record)
-**Direct Source:** https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB
-**Research Record:** Richard van der Blom research file
+**Direct Source:** (https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB))
+**Research Record:** [Richard van der Blom Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md))
+
 
 ### The Strategic Tension
 
@@ -666,7 +667,7 @@ Her approach prioritizes recognizable expertise and building a distinct intellec
 
 **Source:** Katelyn Bourgoin — *“Your 2026 Moat: Become Known for an Idea You Own.”*
 **Date:** 2026 (exact day unavailable in the research record)
-**Direct Source:** https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j
+**Direct Source:** (https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j))
 **Research Record:** Katelyn Bourgoin research file
 
 ### Author B — Daniel Murray: Marketing Strategy and Business Relevance
@@ -739,7 +740,7 @@ This approach suggests that content should not be evaluated only on whether it p
 
 **Source:** Daniel Murray — *“AI Can't Fix Poor Marketing Strategy.”*
 **Date:** May 2026 (exact day unavailable in the research record)
-**Direct Source:** https://www.linkedin.com/posts/daniel-murray-marketing_every-single-marketing-meeting-in-2026-activity-7457063849356234752-4APC
+**Direct Source:** (https://www.linkedin.com/posts/daniel-murray-marketing_every-single-marketing-meeting-in-2026-activity-7457063849356234752-4APC))
 **Research Record:** Daniel Murray research file
 
 ### The Strategic Tension
@@ -811,7 +812,7 @@ Instead, these are ideas or strategic emphases found in the research that I chos
 
 ---
 
-## 7.1 Rejected Idea #1 — Treating Virality or Maximum Reach as the Primary Success Metric
+## 7.1 Rejected Idea 1 — Treating Virality or Maximum Reach as the Primary Success Metric
 
 ### Source Basis
 
@@ -857,7 +858,7 @@ For B2B SaaS, I would rather have a smaller number of relevant prospects engage 
 
 ---
 
-## 7.2 Rejected Idea #2 — Treating High Posting Frequency as the Main Growth Lever
+## 7.2 Rejected Idea 2 — Treating High Posting Frequency as the Main Growth Lever
 
 ### Source Basis
 
@@ -869,7 +870,7 @@ However, I rejected the stronger interpretation that increasing publishing activ
 
 **Source:** Richard van der Blom — *“The Four Content Pillars That Drive LinkedIn Growth.”*
 **Date:** June 2026 (exact day unavailable in the research record)
-**Direct Source:** https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB
+**Direct Source:**(https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB))
 **Research Record:** Richard van der Blom research file
 
 ### Why I Rejected It
@@ -926,15 +927,15 @@ as useful metrics or principles.
 
 I am rejecting their use as **standalone optimization goals**.
 
-My position is:
+**My position is:**
 
-> **Reach should support relevance.**
+> **Reach should support relevance.
 >
-> **Consistency should support quality.**
+> **Consistency should support quality.
 >
-> **Content volume should support learning.**
+> **Content volume should support learning.
 >
-> **Engagement should support business relevance.**
+> **Engagement should support business relevance.
 
 This distinction allows the useful part of the original expert ideas to remain while avoiding their potential misapplication to B2B SaaS.
 
@@ -1224,7 +1225,7 @@ Publish content focused on:
 
 **Evidence basis:** Katelyn Bourgoin's research around customer problems and ownable ideas.
 
-**Source record:** [https://www.linkedin.com/in/katebour/](https://www.linkedin.com/in/katebour/)
+**Source record:** (https://www.linkedin.com/in/katebour/))
 
 ---
 
