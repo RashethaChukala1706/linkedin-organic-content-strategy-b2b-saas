@@ -753,7 +753,7 @@ Daniel Murray's research emphasizes marketing strategy, audience, messaging, pro
 
 This approach suggests that content should not be evaluated only on whether it provides value; it also needs to fit within the broader marketing and business strategy.
 
-**Source:** Daniel Murray — “AI Can't Fix Poor Marketing Strategy.”*
+**Source:** Daniel Murray — “AI Can't Fix Poor Marketing Strategy.”
 
 **Date:** May 2026 (exact day unavailable in the research record)
 
