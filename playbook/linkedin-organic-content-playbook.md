@@ -601,9 +601,12 @@ Justin Welsh's research emphasizes leverage, systems, and intentional execution 
 
 His approach suggests that creators should build sustainable systems and avoid allowing content production to become an inefficient use of time.
 
-**Source:** Justin Welsh — *“The most successful people I know are working less, not more.”*
+**Source:** Justin Welsh — *“The most successful people I know are working less, not more.”
+
 **Date:** June 2026 (exact day unavailable in the research record)
+
 **Direct Source:** (https://tinyurl.com/5n7xhj53))
+
 **Research Record:** Justin Welsh research file
 
 ### Author B — Richard van der Blom: Systematic LinkedIn Activity
@@ -612,9 +615,12 @@ Richard van der Blom's research places greater emphasis on systematic LinkedIn e
 
 His approach places more importance on having a structured publishing system and consistent activity.
 
-**Source:** Richard van der Blom — *“The Four Content Pillars That Drive LinkedIn Growth.”*
+**Source:** Richard van der Blom — *“The Four Content Pillars That Drive LinkedIn Growth.”
+
 **Date:** June 2026 (exact day unavailable in the research record)
+
 **Direct Source:** (https://www.linkedin.com/posts/richardvanderblom_rvdb4-content-pillars-activity-7460611235991158784-sghB))
+
 **Research Record:** [Richard van der Blom Research File](https://github.com/RashethaChukala1706/linkedin-organic-content-strategy-b2b-saas/blob/main/research/linkedin-posts/richard_van_der_blom.md))
 
 
@@ -665,9 +671,12 @@ Katelyn Bourgoin's research emphasizes becoming known for an idea or area of exp
 
 Her approach prioritizes recognizable expertise and building a distinct intellectual position rather than publishing disconnected topics.
 
-**Source:** Katelyn Bourgoin — *“Your 2026 Moat: Become Known for an Idea You Own.”*
+**Source:** Katelyn Bourgoin — *“Your 2026 Moat: Become Known for an Idea You Own.”
+
 **Date:** 2026 (exact day unavailable in the research record)
+
 **Direct Source:** (https://www.linkedin.com/posts/katebour_your-2026-moat-become-known-for-an-idea-activity-7459572469432123393-9d2j))
+
 **Research Record:** Katelyn Bourgoin research file
 
 ### Author B — Daniel Murray: Marketing Strategy and Business Relevance
@@ -676,9 +685,12 @@ Daniel Murray's research emphasizes the importance of marketing strategy, audien
 
 This approach places greater emphasis on ensuring that marketing activity connects to the broader business and customer context.
 
-**Source:** Daniel Murray — *“AI Can't Fix Poor Marketing Strategy.”*
+**Source:** Daniel Murray — *“AI Can't Fix Poor Marketing Strategy.”
+
 **Date:** May 2026 (exact day unavailable in the research record)
+
 **Direct Source:** (https://www.linkedin.com/posts/daniel-murray-marketing_every-single-marketing-meeting-in-2026-activity-7457063849356234752-4APC)
+
 **Research Record:** Daniel Murray research file
 
 ### The Strategic Tension
@@ -727,9 +739,12 @@ Alex Hormozi's research emphasizes fundamentals, value creation, useful communic
 
 The principle I take from this research is that content should provide genuine value rather than relying entirely on promotional messaging.
 
-**Source:** Alex Hormozi — *“You can beat 99% of your competition in 2026 by...”*
+**Source:** Alex Hormozi — *“You can beat 99% of your competition in 2026 by...”
+
 **Date:** January 2026 (exact day unavailable in the research record)
+
 **Direct Source:** https://www.linkedin.com/posts/alexhormozi_you-can-beat-99-of-your-competition-in-2026-activity-7410726159719723008-9Eu0
+
 **Research Record:** Alex Hormozi research file
 
 ### Author B — Daniel Murray: Content Must Serve Marketing Strategy
@@ -739,8 +754,11 @@ Daniel Murray's research emphasizes marketing strategy, audience, messaging, pro
 This approach suggests that content should not be evaluated only on whether it provides value; it also needs to fit within the broader marketing and business strategy.
 
 **Source:** Daniel Murray — *“AI Can't Fix Poor Marketing Strategy.”*
+
 **Date:** May 2026 (exact day unavailable in the research record)
+
 **Direct Source:** (https://www.linkedin.com/posts/daniel-murray-marketing_every-single-marketing-meeting-in-2026-activity-7457063849356234752-4APC))
+
 **Research Record:** Daniel Murray research file
 
 ### The Strategic Tension
